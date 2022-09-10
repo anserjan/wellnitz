@@ -1,0 +1,10 @@
+2022-07-23 00:55:43	admin	http://wellnitz.localhost/admin/login/	Successful login for 'admin'
+2022-08-18 20:53:36	admin	http://wellnitz.localhost/admin/login/	Successful login for 'admin'
+2022-08-19 13:28:49	admin	http://wellnitz.localhost/admin/login/	Successful login for 'admin'
+2022-08-19 15:59:40	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2022-08-19 16:07:08	admin	http://wellnitz.localhost/admin/login/	Successful login for 'admin'
+2022-08-19 18:49:16	admin	http://wellnitz.localhost/admin/login/	Successful login for 'admin'
+2022-08-22 14:34:11	admin	http://wellnitz.localhost/admin/login/	Successful login for 'admin'
+2022-08-22 14:46:14	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2022-08-24 18:43:22	admin	http://wellnitz.localhost/admin/login/	Successful login for 'admin'
+2022-09-10 14:01:15	admin	http://wellnitz.localhost/admin/login/	Successful login for 'admin'
