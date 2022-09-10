@@ -1,2 +1,0 @@
-2022-08-19 14:28:01	admin	http://wellnitz.localhost/admin/page/add/?parent_id=1	Keine Templates erlaubt, um hier neue Seiten hinzu zufügen. (in /wire/modules/Process/ProcessPageAdd/ProcessPageAdd.module line 911)
-2022-08-19 14:28:06	admin	http://wellnitz.localhost/admin/page/add/?parent_id=1	Keine Templates erlaubt, um hier neue Seiten hinzu zufügen. (in /wire/modules/Process/ProcessPageAdd/ProcessPageAdd.module line 911)
