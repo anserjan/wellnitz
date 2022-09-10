@@ -1,11 +1,13 @@
         <?php $impressum = $pages->get("title=impressum") ?>
+        <?php $datenschutz = $pages->get("title=datenschutz") ?>
         <footer class="bg-dark py-4 mt-auto">
             <div class="container px-5">
                 <div class="row align-items-center justify-content-between flex-column flex-sm-row">
                     <div class="col-auto"><div class="small m-0 text-white"><?= $pages->get("template=home")->headline ?></div></div>
                     <div class="col-auto">
-                        <a class="link-light small" href="<?= $impressum->url ?>">Impressum</a>
-                        <!-- <span class="text-white mx-1">&middot;</span> -->
+                        <a class="link-light small" href="<?= $impressum->url ?>"><?= $impressum->title ?></a>
+                        <span class="text-white mx-1">&middot;</span>
+                        <a class="link-light small" href="<?= $datenschutz->url ?>" ><?= $datenschutz->title ?></a>
                     </div>
                 </div>
             </div>
