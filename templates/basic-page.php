@@ -1,6 +1,6 @@
-<div id="basic-page">
-	<?php foreach ($page->children("template!=basic-page") as $content) {
-		require "contents/".$content->template.".php";
+<div class="basic-page">
+	<?php foreach ($page->children("template!=basic-page") as $page_child) {
+		require "contents/".$page_child->template.".php";
 	} ?> 
 </div>
 
