@@ -37,3 +37,4 @@ wire/modules/Jquery/JqueryTableSorter/JqueryTableSorter.min.js
 pwx.php
 assets/
 assets/*
+*.sql
