@@ -59,6 +59,11 @@ $config->dbUser = 'wemove';
 $config->dbPass = 'password';
 $config->dbPort = '3306';
 
+// $config->dbHost = 'localhost';
+// $config->dbName = 'd03aa649';
+// $config->dbUser = 'd03aa649';
+// $config->dbPass = 'Lm6EmXpMZdgBM27x';
+// $config->dbPort = '3306';
 /**
  * Installer: User Authentication Salt 
  * 
@@ -113,7 +118,7 @@ $config->installed = 1658526515;
  * Installer: HTTP Hosts Whitelist
  * 
  */
-$config->httpHosts = array('wellnitz.localhost');
+$config->httpHosts = array('wellnitz.localhost', 'glaserei-wellnitz.de');
 
 
 /**
