@@ -1,14 +1,9 @@
-.basic-page {
-    margin: 0 auto;
-    max-width: 1200px;
-}
-
 .content {
     margin: 0 16x;
     max-width: 1200px;
 }
 
-.container.content {
+.container {
     padding: 0;
 }
 
