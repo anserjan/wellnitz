@@ -1,4 +1,4 @@
-<section class="three-grid">
+<section class="three-grid content">
     <div class="container px-5 my-5">
         <div class="row gx-5">
             <?php foreach ($page_child->three_grid_repeater as $card) { ?>

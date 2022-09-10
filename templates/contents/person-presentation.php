@@ -1,4 +1,4 @@
-<section class="py-5 bg-light">
+<section class="py-5 bg-light content">
     <div class="container px-5 my-5">
         <div class="text-center">
             <h2 class="fw-bolder">Unser Team</h2>

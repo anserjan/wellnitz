@@ -1,10 +1,23 @@
+.basic-page {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.content {
+    margin: 0 16x;
+    max-width: 1200px;
+}
+
+.container.content {
+    padding: 0;
+}
+
 .stage img {
     box-shadow: 1rem 0 1rem 0 rgba(0, 0, 0, .15);
 }
 
 .rich_text {
     margin: 16px;
-    max-width: 1024px;
 }
 
 .rich_text img {

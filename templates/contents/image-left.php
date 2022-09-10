@@ -1,4 +1,4 @@
-<section class="py-5 bg-light image_left">
+<section class="py-5 bg-light image_left content">
     <div class="container px-5 my-5">
         <div class="row gx-5 align-items-center">
             <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="<?= $page_child->image->size("600", "400")->url ?>" alt="" /></div>

@@ -1,4 +1,4 @@
-<section class="quote">
+<section class="quote content">
     <div class="py-5 bg-light">
         <div class="container px-5 my-5">
             <div class="row gx-5 justify-content-center">
