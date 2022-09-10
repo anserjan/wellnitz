@@ -1,10 +1,14 @@
-.content {
-    margin: 0 16px;
-    max-width: 1024px;
+.stage img {
+    box-shadow: 1rem 0 1rem 0 rgba(0, 0, 0, .15);
 }
 
 .rich_text {
-    margin-top: 16px;
+    margin: 16px;
+    max-width: 1024px;
+}
+
+.rich_text img {
+    max-width: 100%;
 }
 
 @media screen and (min-width: 768px) {
